@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{D027A334-CA67-4CF9-A044-B0118965C6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{3D6CC9E4-7570-4C89-B66F-AF5BA04F1205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesInStrings", "QuotesInStrings\QuotesInStrings.csproj", "{59B419BF-06B0-4C47-B00E-9843E9B3D7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D027A334-CA67-4CF9-A044-B0118965C6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D027A334-CA67-4CF9-A044-B0118965C6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D027A334-CA67-4CF9-A044-B0118965C6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D027A334-CA67-4CF9-A044-B0118965C6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6CC9E4-7570-4C89-B66F-AF5BA04F1205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6CC9E4-7570-4C89-B66F-AF5BA04F1205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6CC9E4-7570-4C89-B66F-AF5BA04F1205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6CC9E4-7570-4C89-B66F-AF5BA04F1205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B419BF-06B0-4C47-B00E-9843E9B3D7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B419BF-06B0-4C47-B00E-9843E9B3D7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B419BF-06B0-4C47-B00E-9843E9B3D7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B419BF-06B0-4C47-B00E-9843E9B3D7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
